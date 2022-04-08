@@ -1,21 +1,17 @@
 ---
-title: 'About me'
+title: 'Sobre mi'
 menu:
   main:
-    name: "AboutMe"
+    name: "Sobre mi"
 ---
 
-## Who am I
+## Hola yo soy Gabriel Gamez 
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre es Gabriel De Jesus Rojas Gamez soy de Rio verde, San Luis Potosí, y resido en Hidalgo
+Tengo 25 años recíen cumplidos y estoy estudiando para poder trabajar y empezar a recuperar mi futuruo y construirlo. 
+> Por su puesto que me gustan los videojuegos, sería raro que no, me gusta tocar la guitarra y soy fiel seguidor de mi artista favorito Joji.
+> Sinceramente no tengo muchas cosas interesantes de las cuales puedo mostrarte pero espero tener mas a futuro. 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+![image](https://i.imgur.com/1MMYST5.png)
